@@ -23,6 +23,6 @@
   <path d="M 50,150 Q 150,50 300,100 T 750,150" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.2">
     <animate attributeName="stroke-dasharray" values="0,1000;1000,0" dur="10s" repeatCount="indefinite"/>
   </path>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" filter="url(#glow)">Awesome Social Media Management</text>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#ffffff" filter="url(#glow)">Awesome Social Media Management</text>
   <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#e0e0e0">Curated List of SaaS Platforms &amp; Open-Source Tools</text>
 </svg>
