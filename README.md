@@ -40,69 +40,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Hootsuite](https://www.hootsuite.com/)**  
-
-  Enterprise-grade social media management platform for scheduling, monitoring, social listening, team collaboration, and analytics across major networks.
-
-
-
-- **[Buffer](https://buffer.com/)**  
-
-  Popular, user-friendly scheduling and analytics tool with a strong free plan, per-channel pricing, and clean publishing workflows for creators and small teams.
-
-
-
-- **[Sprout Social](https://sproutsocial.com/)**  
-
-  Premium social media management suite focused on advanced analytics, social CRM, inbox management, and enterprise reporting.
-
-
-
-- **[Loomly](https://www.loomly.com/)**  
-
-  Content calendar and collaboration platform designed for teams that need structured post approval and multi-channel planning.
-
-
-
-- **[Later](https://later.com/)**  
-
-  Visual-first social media planner especially strong for Instagram, TikTok, and other image/video-centric platforms.
-
-
-
-- **[Metricool](https://metricool.com/)**  
-
-  Analytics-focused social media tool with scheduling, competitor insights, and a generous free tier popular with data-driven marketers.
-
-
-
-- **[SocialPilot](https://www.socialpilot.co/)**  
-
-  Affordable multi-account scheduling and client management platform aimed at agencies and growing teams.
-
-
-
-- **[Sendible](https://www.sendible.com/)**  
-
-  Agency-oriented social media management solution with white-label options, client reporting, and multi-profile support.
-
-
-
-- **[Agorapulse](https://www.agorapulse.com/)**  
-
-  Social media management platform strong in social inbox, community management, reporting, and team workflows.
-
-
-
-- **[Planable](https://planable.io/)**  
-
-  Collaboration-focused content calendar for teams that need visual planning, comments, and approval workflows before publishing.
-
-
-
-- **[Publer](https://publer.com/)**  
-
-  Feature-rich scheduler supporting many platforms with AI assistance, bulk uploading, and competitive free/paid tiers.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Hootsuite](https://www.hootsuite.com/)** | Enterprise-grade social media management platform for scheduling, monitoring, social listening, team collaboration, and analytics across major networks. | $99/mo | 30-day trial (10-20 posts limit) |
+| **[Buffer](https://buffer.com/)** | Popular, user-friendly scheduling and analytics tool with a strong free plan, per-channel pricing, and clean publishing workflows for creators and small teams. | $6/mo | 3 channels, 10 posts/channel, 1 user |
+| **[Sprout Social](https://sproutsocial.com/)** | Premium social media management suite focused on advanced analytics, social CRM, inbox management, and enterprise reporting. | $79-$199/mo | 30-day trial |
+| **[Loomly](https://www.loomly.com/)** | Content calendar and collaboration platform designed for teams that need structured post approval and multi-channel planning. | $49/mo | 3 social accounts, 1 user |
+| **[Later](https://later.com/)** | Visual-first social media planner especially strong for Instagram, TikTok, and other image/video-centric platforms. | $18.75/mo | 14-day trial |
+| **[Metricool](https://metricool.com/)** | Analytics-focused social media tool with scheduling, competitor insights, and a generous free tier popular with data-driven marketers. | €16/mo | 1 brand, 20 posts/month, basic analytics |
+| **[SocialPilot](https://www.socialpilot.co/)** | Affordable multi-account scheduling and client management platform aimed at agencies and growing teams. | $20/mo | 14-day trial |
+| **[Sendible](https://www.sendible.com/)** | Agency-oriented social media management solution with white-label options, client reporting, and multi-profile support. | $29/mo | 14-day trial |
+| **[Agorapulse](https://www.agorapulse.com/)** | Social media management platform strong in social inbox, community management, reporting, and team workflows. | $79/user/mo | 1 owner/100 users, 50 profiles, 10 AI credits/mo |
+| **[Planable](https://planable.io/)** | Collaboration-focused content calendar for teams that need visual planning, comments, and approval workflows before publishing. | $39/workspace/mo | 50 total posts (one-time cap) |
+| **[Publer](https://publer.com/)** | Feature-rich scheduler supporting many platforms with AI assistance, bulk uploading, and competitive free/paid tiers. | $4/mo | 3 social accounts, 10 posts/account, 24h history |
 
 
 
