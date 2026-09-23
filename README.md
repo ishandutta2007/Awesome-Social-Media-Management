@@ -49,6 +49,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Publer](https://publer.com/)** | Feature-rich scheduler supporting many platforms with AI assistance, bulk uploading, and competitive free/paid tiers. | $4/mo | 3 social accounts, 10 posts/account, 24h history | ~$2.4M |
 | **[Planable](https://planable.io/)** | Collaboration-focused content calendar for teams that need visual planning, comments, and approval workflows before publishing. | $39/workspace/mo | 50 total posts (one-time cap) | ~$1.6M |
 | **[Loomly](https://www.loomly.com/)** | Content calendar and collaboration platform designed for teams that need structured post approval and multi-channel planning. | $49/mo | 3 social accounts, 1 user | ~$0.65M |
+| **[Social Roster](https://socialroster.dev/)** | Social video scheduler for TikTok, Instagram Reels, YouTube Shorts, and Facebook with calendar planning and bulk upload. | Paid plans | Free trial / paid | Indie |
 
 ---
 
